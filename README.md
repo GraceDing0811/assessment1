@@ -7,10 +7,14 @@ https://github.com/owid/owid-datasets/blob/master/datasets/Number%20of%20people%
 
 ## What the project does
 This project firstly introduces the information about the data set, including its structure, format and variables' descriptive statistics like their mean, standard deviation and range. Missing values proportion is also demonstrated.
+
 Secondly, the project does three data wrangling based on the 'energy access' dataset, which are rename Variables, set Implausible Values into NA and select Columns.
+
 Thirdly, the project visualizes the 'energy access' data thorugh: bar plots, line graphs and a scatter plot.
+
 Finally, the project evaluates my interaction with Chatgpt 3.5, and comments on Chatgpt's code are indicated in a comparison to my code.
-This project is useful in studies in social science field to understand countries' development and their population's well-being over time.
+
+This project is useful in studies in social science field to understand countries' development and their population's well-being over time. Weak countries can be investigated to be helped and studied.
 
 ## How to get started with the project
 1. Look at what the data set is about and look through my project's overview to see if this project is useful to you.
