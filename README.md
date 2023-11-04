@@ -6,13 +6,12 @@ You can access the data set through this link:
 https://github.com/owid/owid-datasets/blob/master/datasets/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank%2C%202021)/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank%2C%202021).csv
 
 ## What the project does
-This project firstly introduces the information about the data set, including its structure, format and variables' descriptive statistics like their mean, standard deviation and range. Missing values proportion is also demonstrated.
+1. This project introduces the information about the data set, including its structure, format and variables' descriptive statistics like their mean, standard deviation and range. Missing values proportion is also demonstrated.
 
-Secondly, the project does three data wrangling based on the 'energy access' dataset, which are rename Variables, set Implausible Values into NA and select Columns.
+2. The project does three data wrangling based on the 'energy access' dataset, which are rename Variables, set Implausible Values into NA and select Columns.
 
-Thirdly, the project visualizes the 'energy access' data thorugh: bar plots, line graphs and a scatter plot.
-
-Finally, the project evaluates my interaction with Chatgpt 3.5, and comments on Chatgpt's code are indicated in a comparison to my code.
+3. The project visualizes the 'energy access' data thorugh: bar plots, line graphs and a scatter plot.
+4. The project evaluates my interaction with Chatgpt 3.5, and comments on Chatgpt's code are indicated in a comparison to my code.
 
 This project is useful in studies in social science field to understand countries' development and their population's well-being over time. Weak countries can be investigated to be helped and studied.
 
